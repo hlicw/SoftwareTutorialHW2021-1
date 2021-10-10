@@ -1,6 +1,7 @@
 # SoftwareTutorialHW2021
 
-(Insert full name or ITSC here.)
+name: Li, Hao
+ITSC: hlicw
 
 HKUST Robotics Team / Software Tutorial / Homework Submission Template
 
